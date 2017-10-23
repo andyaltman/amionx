@@ -76,3 +76,14 @@
 #press-section {
   clear: both;
 }
+
+.news-icons {
+  margin: 20px;
+  vertical-align: middle;
+  align-content: center;
+}
+
+
+#more-news-button {
+  margin: 20px;
+}

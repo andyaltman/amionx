@@ -2353,7 +2353,8 @@
 		ul.icons {
 			cursor: default;
 			list-style: none;
-			padding-left: 0;
+      padding-left: 0;
+      margin: 10px;
 		}
 
 			ul.icons li {
